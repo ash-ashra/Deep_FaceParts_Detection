@@ -5,3 +5,6 @@ Training with custom data generator (using data augmentation methods) for detect
 Sign in to Kaggle and download from here:
 
 https://www.kaggle.com/drgilermo/face-images-with-marked-landmark-points/data#
+
+# Result
+![Output result](output_fig.png)
